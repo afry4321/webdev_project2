@@ -112,8 +112,8 @@ nav ul li a:hover {
 }
 
 #zilla {
-  margin: 30% 30% 30% 30%; 	
-  padding: 30% 30% 30% 30%;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
   justify-content: center;
   text-align: center;
 }
